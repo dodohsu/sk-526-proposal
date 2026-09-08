@@ -1,0 +1,20 @@
+{
+  "short_name": "J:COM Test CMS",
+  "name": "J:COM Test Content Management System",
+  "icons": [
+    {
+      "src": "apple-touch-icon-prep.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-prep.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#3B221F",
+  "background_color": "#ffffff"
+}
